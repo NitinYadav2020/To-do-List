@@ -1,0 +1,16 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.h1,h1{
+margin: 0px 70px 0px 22px;
+}
+
+.custom {
+    padding: 4%;
+    text-align: center;
+}
+
+.btn{
+    margin: 23px;
+}
